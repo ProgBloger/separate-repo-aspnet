@@ -1,0 +1,114 @@
+# Built application files
+*.apk
+*.appx
+*.appxbundle
+*.bundle
+*.ipa
+*.msix
+*.msixbundle
+*.nupkg
+*.runtimeconfig.json
+bin/
+obj/
+
+# MSTest test Results
+TestResults/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio files and folders
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.svclog
+*.vs/
+*.vscode/
+*.rdb
+*.opendb
+
+# ReSharper / Rider
+.idea/
+*.resharper
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Publish Web Output
+/publish/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.nuproj
+*.nuget.targets
+*.nuget.props
+globalPackages/
+
+# Windows store app package directory
+AppPackages/
+
+# Others
+ClientBin/
+~$*
+*~
+*.log
+*.log.*
+*.sql
+*.rdl.data
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.scc
